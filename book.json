@@ -25,7 +25,6 @@
         "tbfed-pagefooter",
         "code",
         "search-plus", "-lunr", "-search",
-        "lightbox",
         "theme-comscore",
         "valine",
         "pageview-count",
