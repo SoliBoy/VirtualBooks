@@ -32,7 +32,7 @@ jobs:
     - name: push _book to branch gh-pages 
       env:
         TOKEN: ${{ secrets.TOKEN }}
-        REF: github.com/${{github.repository}}
+        REF: github.com/SoliBoy/VirtualBooks.git
         MYEMAIL: 22009200439@stu.xidian.edu.cn                  # ！！记得修改为自己邮箱
         MYNAME: SoliBoy          
       run: |
