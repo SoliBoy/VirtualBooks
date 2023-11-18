@@ -1,0 +1,6 @@
+.gitignore
+.bookignore
+book_default.json
+*.bat
+*.pdf
+node_modules
