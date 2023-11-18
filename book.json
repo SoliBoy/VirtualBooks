@@ -27,8 +27,7 @@
         "theme-comscore",
         "valine",
         "pageview-count",
-        "favicon-absolute",
-        "copyright-v"
+        "favicon-absolute"
     ],
     "pluginsConfig": {
         "theme-default": {
